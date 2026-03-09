@@ -4,7 +4,7 @@
   <h3>MERN Stack Developer | Creative Problem Solver</h3>
 
   <p align="center">
-    📍 Jashore, Khulna Division, Bangladesh | 📧 <a href="fahimshareear@gmail.com">your.email@example.com</a>
+    📍 Jashore, Khulna Division, Bangladesh | 📧 <a href="mailto:fahimshareear@gmail.com">fahimshareear@gmail.com</a>
   </p>
 
   <p align="center">
@@ -47,4 +47,5 @@ I am a passionate **MERN Stack Developer** dedicated to building scalable and hi
 *Short overview of the project and why it's cool.*
 - **Tech:** React, Redux Toolkit, Node.js
 - **Link:** [Live Demo](https://live-link.com) | [Source Code](https://github.com/fahim-shareear/zap-shift-main.git)
+
 
