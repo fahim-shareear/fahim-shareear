@@ -83,18 +83,6 @@ https://github.com/fahim-shareear/zap-shift-main
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=fahim-shareear&show_icons=true&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahim-shareear&layout=compact&hide_border=true&hide=python,c%2B%2B,c"/>
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
