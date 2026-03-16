@@ -42,7 +42,7 @@ I am a passionate **MERN Stack Developer** dedicated to building scalable and hi
 #### 3. Zap-Shift Courier Service
 *Short overview of the project and why it's cool.*
 - **Tech:** React, Redux Toolkit, Node.js
-- **Link:** [Live Demo](https://live-link.com) | [Source Code](https://github.com/fahim-shareear/zap-shift-main.git)
+- **Link:** [Live Demo]([https://live-link.com](https://curious-praline-9b2b35.netlify.app/)) | [Source Code](https://github.com/fahim-shareear/zap-shift-main.git)
 
 
 
