@@ -38,10 +38,6 @@ I am a passionate **MERN Stack Developer** dedicated to building scalable and hi
 - **Tech:** Next.js Tailwind, Express, Firebase, Cors
 - **Link:** [Live Demo](https://lumina-omega-coral.vercel.app/) | [Source Code](https://github.com/fahim-shareear/lumina.git)
 
-#### 2. Movie Master pro
-*Short overview of the project and why it's cool.*
-- **Tech:** MongoDB, Express, React, Node.js
-- **Link:** [Live Demo](https://movie-master-pro-82ff4.web.app/) | [Source Code](https://github.com/username/repo)
 
 #### 3. Zap-Shift Courier Service
 *Short overview of the project and why it's cool.*
