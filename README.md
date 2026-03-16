@@ -25,7 +25,7 @@ Email: [fahimshareear@gmail.com](mailto:fahimshareear@gmail.com)
 
 ## About
 
-I am a MERN Stack Developer focused on building scalable, efficient, and user-friendly web applications. I enjoy solving real-world problems and creating clean, maintainable software using modern JavaScript technologies.
+I am a MERN Stack Developer focused on building scalable and user-friendly web applications using modern JavaScript technologies. I enjoy solving real-world problems and writing clean, maintainable code.
 
 Currently expanding my expertise in **Next.js**, **server-side rendering**, and full-stack application architecture.
 
@@ -55,32 +55,30 @@ Currently expanding my expertise in **Next.js**, **server-side rendering**, and 
 
 ### Lumina E-Commerce Platform
 
-A full-stack e-commerce application with a responsive interface and scalable backend services.
+A full-stack e-commerce application designed with a responsive interface and scalable backend services.
 
-**Technologies**
-
+Technologies:
 Next.js • Tailwind CSS • Express.js • Firebase
 
-**Live Demo**
+Live Demo
 https://lumina-omega-coral.vercel.app/
 
-**Source Code**
+Source Code
 https://github.com/fahim-shareear/lumina
 
 ---
 
 ### Zap-Shift Courier Service
 
-A courier management system designed to streamline delivery workflow with efficient state management.
+A courier management system designed to streamline delivery workflow and manage application state efficiently.
 
-**Technologies**
-
+Technologies:
 React • Redux Toolkit • Node.js
 
-**Live Demo**
+Live Demo
 https://curious-praline-9b2b35.netlify.app/
 
-**Source Code**
+Source Code
 https://github.com/fahim-shareear/zap-shift-main
 
 ---
@@ -91,7 +89,7 @@ https://github.com/fahim-shareear/zap-shift-main
 
 <img src="https://github-readme-stats.vercel.app/api?username=fahim-shareear&show_icons=true&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahim-shareear&layout=compact&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahim-shareear&layout=compact&hide_border=true&hide=python,c%2B%2B,c"/>
 
 </div>
 
